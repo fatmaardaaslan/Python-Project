@@ -24,6 +24,7 @@ Project Questions
 8.Visualize the countries and ages of individuals who won prizes in Chemistry, Literature, Peace, Physics, and Medicine after the year 2000. (Separate visualizations for each category are requested.) Provide insights based on the data.
 
 Technologies Used
+
 Python
 
 Pandas
