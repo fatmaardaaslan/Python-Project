@@ -1,9 +1,12 @@
 # Python-Project
 Nobel Prizes | Python
+
 Nobel Prize Winners Analysis Project
+
 Nobel Prize is perhaps the most recognized scientific award in the world. Each year, it is awarded to scientists and academics in the fields of chemistry, literature, physics, medicine, economics, and peace. In this project, we will explore the winners of the Nobel Prize and analyze various aspects of the awarded individuals.
 
 Project Questions
+
 1.Identify the top ten countries with the most Nobel Prize winners.
 
 2.List the first women who won the Nobel Prize.
@@ -22,6 +25,9 @@ Project Questions
 
 Technologies Used
 Python
+
 Pandas
+
 Matplotlib / Seaborn (for visualization)
+
 Jupyter Notebook 
